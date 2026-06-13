@@ -1421,6 +1421,11 @@ button {
   flex-wrap: wrap;
   gap: 1.5rem;
 }
+.footer-bottom a:hover {
+  color: var(--color-accent-3);
+  font-size: 1.5rem;
+  font-weight: 700;
+}
 
 .footer-bottom .heart {
   color: #ef4444;
