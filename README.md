@@ -1,7 +1,7 @@
 # Installation
 
 ```bash
-git clone https://github.com/arefNabizadeh/git_exer
+git clone https://github.com/ArefNabizadeh/next-tech.git
 ```
 
 ### author
