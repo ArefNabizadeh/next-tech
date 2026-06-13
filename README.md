@@ -14,6 +14,5 @@ git clone https://github.com/ArefNabizadeh/next-tech.git
 
 ## Code Quality
 
-[![Quality Score](https://img.shields.io/badge/quality-10-brightgreen)](https://scrutinizer-ci.com)
-[![Coverage](https://img.shields.io/badge/coverage-95%25-green)](https://scrutinizer-ci.com)
-[![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://scrutinizer-ci.com)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ArefNabizadeh/next-tech/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ArefNabizadeh/next-tech/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/ArefNabizadeh/next-tech/badges/build.png?b=master)](https://scrutinizer-ci.com/g/ArefNabizadeh/next-tech/build-status/master)
